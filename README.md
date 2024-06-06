@@ -6,3 +6,5 @@
 - **h!beta-soru-sor** **> Bota Soru Sorarsınız!**
 - **h!google** **> Bot İle Google Sistemini Aratırsınız!**
 - **h!resim-çiz** **> Bota Resim Çizdirirsiniz!**
+
+# BOT'DA BİR SORUN VB BULURSANIZ KURUCUMA ULAŞIN!
